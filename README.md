@@ -6,7 +6,7 @@ I'm very passionate about creating accessible, fully functional, responsive, and
 
 
 ## 🌱 My Area of Interest 
-Full-Stack Web Developer 
+Full-Stack Web Development
 
 
  ## ✍🏽 Contact Me
