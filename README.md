@@ -28,7 +28,11 @@ I’ve been working on a personal portfolio website for the past six months, and
 
 
  ## ⚡ Interests and Hobbies  
- My hobbies and interests consist of photography, drawing, coding, and listening to music.
+- Photography
+- Drawing
+- Coding
+- Reading
+- Listening to music
 
 
  ## 💻 Projects
