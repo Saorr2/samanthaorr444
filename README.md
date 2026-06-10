@@ -55,7 +55,7 @@ My main focus and overall goal was to redesign the company’s website with a st
 https://github.com/Saorr2/Final-Project
 
 - Live Website:
-saorr2.github.io/Final-Project/
+https://saorr2.github.io/Final-Project/ 
 
 
 ## Cafe Busteló Website UI Redesign 
@@ -77,7 +77,7 @@ My main focus and overall goal was to redesign the brand’s website with a mini
 https://github.com/Saorr2/Final-project-website
 
 - Live Website:
-saorr2.github.io/Final-project-website/
+https://saorr2.github.io/Final-project-website/ 
 
 
 ## Pō Cocktail Lounge Website
@@ -99,4 +99,4 @@ My team and I created a website for Tiki Viks bar brand launch. We created a web
 https://github.com/GIT550-Web-Dev-Team/po_cocktail_bar
 
 - Live Website:
-git550-web-dev-team.github.io/po_cocktail_bar/
+https://git550-web-dev-team.github.io/po_cocktail_bar/ 
