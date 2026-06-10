@@ -4,17 +4,17 @@ I'm Samantha Orr, a full-stack web developer based in Georgia.
 
 ## Full-Stack Web Development
 
+In my role, I prioritize putting users first to create a positive experience for them and ensure the websites I create are inclusive, accessible, and easily navigable. The user's experience should always be the main focus; incorporating user experience and user interface principles is crucial in web development. 
+
 I'm very passionate about creating accessible, fully functional, responsive, and interactive websites. As I continue to cultivate my skills as a web developer, my desire is to transition from a web developer to a software engineer, since I'd like to learn about applications and database software.
+
+## ⚙️ Coding Languages
+For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL.
 
  ## ✍🏽 Contact Me
 - Samanthaorr4@gmail.com
 - https://github.com/Saorr2
 - www.linkedin.com/in/samantha-orr-b97aa52b9
-
-
-## ⚙️ Coding Languages
-For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL.
-
 
 ## 🎓 Goals
 My goal after graduation is to continue strengthening my skills as a web developer and learn as much new information as I can. So I will benefit myself by finding a job at a relatively well-known technology company to secure a role as a web developer. My main focus after graduating will be to dedicate my time to earning certifications through web development programs. To strengthen and hone my skills as a full-stack web developer.
