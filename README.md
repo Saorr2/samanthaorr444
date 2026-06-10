@@ -9,7 +9,7 @@ In my role, I prioritize putting users first to create a positive experience for
 I'm very passionate about creating accessible, fully functional, responsive, and interactive websites. As I continue to cultivate my skills as a web developer, my desire is to transition from a web developer to a software engineer, since I'd like to learn about applications and database software.
 
 ## ⚙️ Coding Languages
-For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL.
+For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL, as these are the current languages I am learning.
 
  ## ✍🏽 Contact Me
 - Samanthaorr4@gmail.com
