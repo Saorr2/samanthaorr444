@@ -4,25 +4,32 @@ I'm Sam, a full-stack web developer based in Georgia.
 
 I'm very passionate about creating accessible, fully functional, responsive, and interactive websites. As I continue to cultivate my skills as a web developer, my desire is to transition from a web developer to a software engineer, since I'd like to learn about applications and database softwares.
 
+
 ## 🌱 My Area of Interest 
 Full-Stack Web Developer 
+
 
  ## ✍🏽 Contact Me!
 - Samanthaorr4@gmail.com
 - https://github.com/Saorr2
 - www.linkedin.com/in/samantha-orr-b97aa52b9
 
+
 ## ⚙️ Coding Languages
 For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am passionate about web development, and in my free time, I enjoy deepening my understanding of various coding languages such as Python, Java, and SQL.
+
 
 ## 🎓 Goals
 My goal after graduation is to continue strengthening my skills as a web developer and learn as much new information as I can. So I will benefit myself by finding a job at a relatively well-known technology company to secure a role as a web developer. My main focus after gradauting will be to dedicate my time to earning certifications through web development programs. To strengthen and hone my skills as a full-stack web developer.
 
+
 ## 📚 Portfolio 
 I’ve been working on a personal portfolio website for the past six months, and it is still a work in progress, but it can be viewed here https://saorr2.github.io/01-prj-personal-site/#projects. However, below in the pinned section are a few projects I’ve created and am very proud of! When I have more free time, I will take the opportunity to focus on improving my website and integrating new skills and information I've learned along with new projects I've worked on.
 
+
  ## ⚡ Interests and Hobbies  
  My hobbies and interests consist of photography, drawing, coding, and listening to music.
+
 
  ## 💻 Projects
 
@@ -76,7 +83,7 @@ My team and I created a website for Tiki Viks bar brand launch. We created a web
 ## Utilized Coding Languages:
 - HTML
 - CSS
-- Vanilla JavaScript
+- JavaScript
 
 ## Highlighted Project Features:
 - Scrollable and interactable drink menu
