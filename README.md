@@ -1,4 +1,6 @@
-## Hello! 🙂 I'm Samantha Orr 
+## Hello! 🙂  
+
+I'm Samantha Orr, a full-stack web developer based in Georgia.
 
 ## Full-Stack Web Development
 
