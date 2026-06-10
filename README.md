@@ -9,7 +9,7 @@ I'm very passionate about creating accessible, fully functional, responsive, and
 Full-Stack Web Developer 
 
 
- ## ✍🏽 Contact Me!
+ ## ✍🏽 Contact Me
 - Samanthaorr4@gmail.com
 - https://github.com/Saorr2
 - www.linkedin.com/in/samantha-orr-b97aa52b9
