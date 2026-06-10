@@ -17,7 +17,7 @@ For coding languages, I am proficient in HTML, CSS, and vanilla JavaScript. I am
 
 
 ## 🎓 Goals
-My goal after graduation is to continue strengthening my skills as a web developer and learn as much new information as I can. So I will benefit myself by finding a job at a relatively well-known technology company to secure a role as a web developer. My main focus after gradauting will be to dedicate my time to earning certifications through web development programs. To strengthen and hone my skills as a full-stack web developer.
+My goal after graduation is to continue strengthening my skills as a web developer and learn as much new information as I can. So I will benefit myself by finding a job at a relatively well-known technology company to secure a role as a web developer. My main focus after graduating will be to dedicate my time to earning certifications through web development programs. To strengthen and hone my skills as a full-stack web developer.
 
 
 ## 📚 Portfolio 
