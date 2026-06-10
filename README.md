@@ -4,7 +4,7 @@ I'm Samantha Orr, a full-stack web developer based in Georgia.
 
 ## Full-Stack Web Development
 
-I'm very passionate about creating accessible, fully functional, responsive, and interactive websites. As I continue to cultivate my skills as a web developer, my desire is to transition from a web developer to a software engineer, since I'd like to learn about applications and database softwares.
+I'm very passionate about creating accessible, fully functional, responsive, and interactive websites. As I continue to cultivate my skills as a web developer, my desire is to transition from a web developer to a software engineer, since I'd like to learn about applications and database software.
 
  ## ✍🏽 Contact Me
 - Samanthaorr4@gmail.com
